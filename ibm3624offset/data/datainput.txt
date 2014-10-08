@@ -1,0 +1,12 @@
+#
+# Input  data format is : card_pan_number#clear_pin_number#
+# output data format is : card_pan_number#clear_pin_number#offset#
+#
+4041850002769603#961861#Y
+404185          #961861#
+403#861#
+4041850002769603#961861#
+9704151300007029#345678#
+4151300007029#345678#
+5555554151300007029#345678#
+

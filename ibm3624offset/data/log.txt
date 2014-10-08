@@ -1,0 +1,9 @@
+#
+# Input  data format is : card_pan_number#clear_pin_number#
+# output data format is : card_pan_number#clear_pin_number#offset#
+#
+4041850002769603#961861#Y
+404185          #961861#
+403Invalid pan - must containt between 13 to 19 decimal digits !!              
+403#861#
+
